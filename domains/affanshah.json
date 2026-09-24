@@ -1,0 +1,12 @@
+{
+    "$schema": "../schema.json",
+    "description": "Portfolio website for Affan Shah, Computer Engineering Student",
+    "repo": "https://github.com/Codenama-007/Affan-Shah",
+    "owner": {
+        "username": "Codenama-007",
+        "email": "affanjavedshah@student.sfit.ac.in"
+    },
+    "record": {
+        "CNAME": "cname.vercel-dns.com"
+    }
+}
